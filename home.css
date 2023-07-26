@@ -1,0 +1,45 @@
+.search-btn{
+    border: none;
+    background: none;
+}
+.get-btn{
+    background-color: #CDA274;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.main-content{
+    margin-top: 60px;
+}
+.footer-content{
+    margin-top: 60px;
+    padding: 20px;
+}
+
+
+
+
+.cart{
+    border: none;
+    padding: 40px;
+    background-color: #efe0cf;
+    margin-top: 90px;
+    margin-left: 50px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Box shadow */
+}
+.cart-container{
+    align-items: center;
+    text-align: center;
+}
+.vector{
+    padding: 10px;
+}
+#get{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.number{
+    font-size: 40px;
+    font-family: DM Serif Display;
+}
